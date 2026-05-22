@@ -67,6 +67,7 @@ All times are strings in `HH:MM` format and update daily.
 
 **Play the Adhan at prayer time:**
 
+{% raw %}
 ```yaml
 automation:
   - alias: "Adhan at Maghrib"
@@ -82,9 +83,11 @@ automation:
           media_content_id: /local/adhan.mp3
           media_content_type: music
 ```
+{% endraw %}
 
 **Dim lights 10 minutes before Fajr:**
 
+{% raw %}
 ```yaml
 automation:
   - alias: "Prepare for Fajr"
@@ -102,9 +105,11 @@ automation:
           brightness_pct: 20
           kelvin: 2700
 ```
+{% endraw %}
 
 **Do Not Disturb during prayer windows:**
 
+{% raw %}
 ```yaml
 automation:
   - alias: "Silence notifications at Isha Iqama"
@@ -119,6 +124,7 @@ automation:
           data:
             command: turn_on
 ```
+{% endraw %}
 
 ## Tips
 
