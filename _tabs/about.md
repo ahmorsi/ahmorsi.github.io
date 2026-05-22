@@ -32,5 +32,4 @@ I work across the full modern AI stack: designing agentic workflows, scaling MLO
 ## Find me
 
 - GitHub: [ahmorsi](https://github.com/ahmorsi)
-- LinkedIn: <!-- https://linkedin.com/in/your-profile -->
-- Email: <!-- your-email@example.com -->
+- LinkedIn: [aabdelbaki9](https://www.linkedin.com/in/aabdelbaki9/)
