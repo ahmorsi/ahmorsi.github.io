@@ -36,17 +36,7 @@ avatar: assets/img/me.jpeg
 toc: true
 
 comments:
-  provider: giscus
-  giscus:
-    repo: ahmorsi/ahmorsi.github.io
-    repo_id:       # get from https://giscus.app
-    category: Announcements
-    category_id:   # get from https://giscus.app
-    mapping: pathname
-    strict: 0
-    input_position: bottom
-    lang: en
-    reactions_enabled: 1
+  provider: false
 
 assets:
   self_host:
