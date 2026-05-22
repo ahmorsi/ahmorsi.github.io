@@ -1,6 +1,6 @@
 ---
 title: "Installing Home Assistant on a Raspberry Pi"
-date: 2026-05-22 10:00:00 +0200
+date: 2026-05-22 13:13:10 +0200
 categories: [Smart Home]
 tags: [home-assistant, raspberry-pi, haos, setup]
 ---

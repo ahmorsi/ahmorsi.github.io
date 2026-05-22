@@ -1,6 +1,6 @@
 ---
 title: "Integrating Mawaqit Prayer Times into Home Assistant"
-date: 2026-05-22 14:00:00 +0200
+date: 2026-05-22 13:13:30 +0200
 categories: [Smart Home]
 tags: [home-assistant, mawaqit, automation, hacs, iot]
 ---

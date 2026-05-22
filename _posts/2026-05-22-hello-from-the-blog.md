@@ -1,6 +1,6 @@
 ---
 title: "Hello from the Blog"
-date: 2026-05-22 16:00:00 +0200
+date: 2026-05-22 13:13:00 +0200
 categories: [AI & LLMs]
 tags: [introduction]
 ---
